@@ -52,6 +52,7 @@
 </table>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<iframe src="https://giphy.com/embed/13jghlUIB6FHZm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13jghlUIB6FHZm">via GIPHY</a></p>
 
 ### Contact me:
 
