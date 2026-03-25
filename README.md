@@ -51,8 +51,7 @@
     </tr>
 </table>
 
-<iframe src="https://giphy.com/embed/1r1srgmIN9icL74lBR" width="480" height="401" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/theoffice-transparent-the-office-peacocktv-1r1srgmIN9icL74lBR">via GIPHY</a></p>
-
+![The Office Jim GIF](https://github.com/user-attachments/assets/7d69a8ae-8c34-4c4d-9018-e4a5d67e8ed8)
 
 ### Contact me:
 
