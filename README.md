@@ -51,9 +51,8 @@
     </tr>
 </table>
 
-<p><img align="right" height="250" width="300" src="https://giphy.com/embed/13jghlUIB6FHZm" alt="SubhadeepZilong" /></p>
+<p><img align="right" width="480" height="269" style="" frameBorder="0" src="https://giphy.com/embed/13jghlUIB6FHZm" alt="SubhadeepZilong" /></p>
 
-<iframe src="" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13jghlUIB6FHZm">via GIPHY</a></p>
 
 ### Contact me:
 
