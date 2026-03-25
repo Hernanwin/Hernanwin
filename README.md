@@ -2,7 +2,7 @@
 
 <br /> 
 <!--Start Intro-->               
-<p align="left">*I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.*</p>
+<p align="left">I am an advanced student of systems analysis and my main hobby is using logic and communication to understand effective development cycles in the workplace.</p>
 
 - ✨ Student of Student of system analyst!
 - 🌱 I am a systems analysis student and I am currently learning many things; I believe that every day I get closer to my goal.
