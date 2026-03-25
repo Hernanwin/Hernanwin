@@ -6,7 +6,7 @@
 
 - ✨ Student of Student of system analyst!
 - 🌱 I am a systems analysis student and I am currently learning many things; I believe that every day I get closer to my goal.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- 🏙 A lifetime insider and Mentor 
 - 💁‍♂️ Volunteer mod at **C#, .NET, and Java**. <3
 - ✍ I write -------.
 - ❤ Contributing to Open Source.
@@ -60,6 +60,6 @@
 
 ### Contact me:
 
-<a href="https://github.com/Hernanwin" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Hernanwin" target="_blank"><img src="https://img.shields.io/badge/Github-Hernanwin?style=for-the-badge&logo=github"></a>
 
 <a href="mailto:hernanboces@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-hernanboces@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
