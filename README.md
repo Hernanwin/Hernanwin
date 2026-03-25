@@ -60,6 +60,6 @@
 
 ### Contact me:
 
-<a href="https://github.com/Hernanwin" target="_blank"><img src="https://img.shields.io/badge/Github-Hernanwin?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Hernanwin" target="_blank"><img src="https://img.shields.io/badge/Github-Hernanwin-green?style=for-the-badge&logo=github"></a>
 
 <a href="mailto:hernanboces@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-hernanboces@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
