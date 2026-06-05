@@ -4,11 +4,11 @@
 <!--Start Intro-->               
 <p align="left">I am an advanced student of systems analysis and my main hobby is using logic and communication to understand effective development cycles in the workplace.</p>
 
-- ✨ Student of Student of system analyst!
-- 🌱 I am a systems analysis student and I am currently learning many things; I believe that every day I get closer to my goal.
-- 🏙 A lifetime insider and Mentor 
+- ✨ self-taught by choice!
+- 🌱 Always contributing to the IT community.
+- 🏙 Time traveler through the network.
 - 💁‍♂️ Volunteer mod at **C#, .NET, and Java**. <3
-- ✍ I write -------.
+- ✍ I write and analyze code.
 - ❤ Contributing to Open Source.
 <!--End Intro-->
 
